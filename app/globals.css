@@ -140,6 +140,6 @@
   h4,
   h5,
   h6 {
-    font-family: var(--font-baloo), sans-serif !important;
+   font-family: var(--font-noto-naskh), serif !important;
   }
 }
