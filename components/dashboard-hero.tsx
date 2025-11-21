@@ -2,7 +2,7 @@ export function DashboardHero() {
   return (
     <div className="dashboard-text">
       <p className="Welcome-Username" id="WelcomeUsername">
-        <i className="fa-solid fa-face-smile"></i> أهلا بك صادق{" "}
+        <i className="fa-solid fa-face-smile"></i> أهلا بك {" "}
       </p>
       <h1 className="dashboard-title"> ما هو ارشيف الثقة التجاري ؟! </h1>
       <p className="dashboard-subtitle">
